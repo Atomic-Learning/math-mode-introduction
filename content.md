@@ -6,5 +6,5 @@ $$
  \frac{\partial^2 \overrightarrow{x}}{\partial t^2} = \begin{pmatrix}
 \alpha  & \frac{1}{2} \\
 \theta  & \rho ^{2} \\
-\end{pmatrix}
+\end{pmatrix}\overrightarrow{x}
 $$
